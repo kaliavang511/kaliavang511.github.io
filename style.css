@@ -1,0 +1,116 @@
+<style>
+    .space{
+        margin-top: 100px;
+    }
+    .name{
+        font-size: 25px;
+        margin-left: 25px; 
+        color:black;
+        font-family: "DejavuSans";    
+        line-height: 5px;
+    }
+
+    .info{ 
+      font-size: 15px;
+      margin-left: 25px;
+      color: black;
+      font-family: "Dejavu Sans";  
+      font-weight: 65px;;
+      line-height: 2px;
+      
+
+    }
+
+    .email{
+        color: blue;
+        margin-left:25px;
+        font-size: 15px;
+        line-height: 2px;
+        font-family: "Dejavu Sans";  
+
+        
+    }
+    
+    .phoneNumber{
+        margin-left: 25px;
+        font-size: 15px;
+        line-height: 2px;
+        color:black;
+        font-family: "Dejavu Sans";      
+    }
+
+    .location{
+        margin-left: 25px;
+        font-size: 15px;
+        line-height: 0px;
+        font-family: "Dejavu Sans";      
+    
+    }   
+
+    .location2{
+        margin-left: 25px;
+        font-size:14px;
+        color: gray;
+        margin-bottom: 30px;
+        font-family: "Dejavu Sans";
+
+        
+
+    }
+
+    .title1{
+        color:gray;
+        margin-left: 25px;
+        font-size: 20px;
+        line-height: 10px;
+        font-family: "Noto Sans", "Helvetica Neue", Helvetica, Arial, "Liberation Sans", "Roboto, Noto", sans-serif"    
+
+    }
+
+    .workPlace{
+        color: gray;
+        font-size: 14px;
+        line-height: 0px;
+        margin-left: 25px;
+        font-family: "Noto Sans", "Helvetica Neue", Helvetica, Arial, "Liberation Sans", "Roboto, Noto", sans-serif"    
+    }
+
+    .date{
+        color: gray;
+        font-size: 14px;
+        line-height: 0px;
+        margin-left: 25px;
+        font-family: "Noto Sans", "Helvetica Neue", Helvetica, Arial, "Liberation Sans", "Roboto, Noto", sans-serif"    
+    }
+
+    .workTitle{
+        margin-left: 25px;
+        font-family: "Noto Sans", "Helvetica Neue", Helvetica, Arial, "Liberation Sans", "Roboto, Noto", sans-serif"    
+    }
+
+    .p{
+        line-height: 1em;
+    }
+
+    .label{
+        border-style :solid;
+        border-color: gray;
+        text-align: center;
+        margin-left: 25px;
+        height: 8px;
+        width: 120px;
+        padding: 12px;
+        border-radius: 8px;
+        color: gray;
+        background-color: white;
+        border-width: 2px;
+        display: block;
+        cursor: pointer;
+    }
+
+    .Input{
+    display: none;
+
+    }
+
+</style>
